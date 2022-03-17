@@ -12,4 +12,6 @@ Here is the video:
 
 https://user-images.githubusercontent.com/91971211/158733120-563d88ae-98d8-4acf-94db-f8bf123d6afe.mov
 
+Here is the code: https://github.com/RayWangRui/Coding-2--Ray/blob/main/Week5-Python%20Challenge/double-six-dice-game.py
 
+<img width="769" alt="code-pic" src="https://user-images.githubusercontent.com/91971211/158733371-e525725b-61af-4457-a354-ae063ceb7442.png">
