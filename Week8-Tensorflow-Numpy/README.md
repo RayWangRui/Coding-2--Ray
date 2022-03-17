@@ -16,4 +16,4 @@ Finally, we use tensor of tensor flow to realize some simple calculation operati
  https://user-images.githubusercontent.com/91971211/158772993-be343aae-2b2f-44f0-8221-ab3c754fd641.mov
  
  Code: 
-
+https://github.com/RayWangRui/Coding-2--Ray/tree/main/Week8-Tensorflow-Numpy/myCode
