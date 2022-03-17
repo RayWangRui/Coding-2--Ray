@@ -10,7 +10,10 @@ Have Fun With It!<br>❤️ <br>
 <br>
 This is the video
 
-https://user-images.githubusercontent.com/91971211/158724966-7ceb44c1-76ba-47b8-9f13-0c1edb6c6113.mov
+
+https://user-images.githubusercontent.com/91971211/158726731-9d05ca0b-97b6-4d98-8e2b-49a56e047b44.mov
+
+
 <br>
 <br>
 Here is the code:https://github.com/RayWangRui/Coding-2--Ray/tree/main/Week2-Maximilian-OF/Xcode-MyProject/src
