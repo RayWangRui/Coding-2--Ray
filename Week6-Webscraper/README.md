@@ -12,3 +12,5 @@ Here is the video:
 
 https://user-images.githubusercontent.com/91971211/158741049-841db261-7b83-4d84-9a42-6242f49c9dec.mov
 
+
+Code: https://github.com/RayWangRui/Coding-2--Ray/blob/main/Week6-Webscraper/insider_search.py
