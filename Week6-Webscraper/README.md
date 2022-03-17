@@ -1,7 +1,7 @@
 # WEEK6-Webscraper 🦾
 
 This is my Webscraper project, it can let people search keywords from specific web to get relevant paragraph information with search keywords.
-Crawl web pages：https://www.insider.com/lifestyle
+Crawl web pages：https://www.insider.com/lifestyle<br>
 Use gensim bs4 urllib
 
 <img width="1667" alt="截屏2022-03-17 上午5 05 57" src="https://user-images.githubusercontent.com/91971211/158740989-9073dd7f-4ae1-45b9-a915-fa1e8cf3b2cb.png">
