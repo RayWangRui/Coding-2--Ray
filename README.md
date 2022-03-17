@@ -1,3 +1,3 @@
 # Coding-2--Ray
-This is my Coding two place.
-![]()
+Welcome to my Coding two place! <br> <br>
+![](https://github.com/RayWangRui/Coding-2--Ray/blob/main/pic1.gif)
