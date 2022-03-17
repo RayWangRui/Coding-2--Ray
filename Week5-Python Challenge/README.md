@@ -9,3 +9,7 @@ The winner of the game is the user who rolled a double six in the smaller number
 The game ends on a draw if both players used the same number of attempts to roll a double six.
 
 Here is the video:
+
+https://user-images.githubusercontent.com/91971211/158733120-563d88ae-98d8-4acf-94db-f8bf123d6afe.mov
+
+
