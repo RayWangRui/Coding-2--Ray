@@ -14,3 +14,8 @@ https://user-images.githubusercontent.com/91971211/158741049-841db261-7b83-4d84-
 
 
 Code: https://github.com/RayWangRui/Coding-2--Ray/blob/main/Week6-Webscraper/insider_search.py
+
+Code Screen shoot:
+
+<img width="950" alt="截屏2022-03-17 上午5 12 51" src="https://user-images.githubusercontent.com/91971211/158741732-f1db83b5-1123-4a40-b6bd-af159386208a.png"><img width="1023" alt="截屏2022-03-17 上午5 13 00" src="https://user-images.githubusercontent.com/91971211/158741740-972a6558-47a7-44e1-8246-f3879845c01e.png">
+
