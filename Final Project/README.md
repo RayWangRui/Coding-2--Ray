@@ -11,6 +11,10 @@ But everyone also feels different about the same music. Some people may sound sa
 Therefore, I want to visually enlarge the musical elements through sound visualization to enhance people's sensory experience of melody. 
 Different from the shooting of traditional music MV, I think this neutral visual effect, without human emotional intervention factors of the storyline, can dynamically let people feel the music and think about melody with the most primitive visual elements.
 
+Here is the video:
+
+https://user-images.githubusercontent.com/91971211/159017330-af4cd4d1-e53a-4866-a0e7-d3e0a7ab829c.mov
+
 
 
 I designed four visual dynamic elements to amplify the senses of music:
