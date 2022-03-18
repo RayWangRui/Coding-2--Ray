@@ -67,31 +67,6 @@ void ofApp::update() {
 	px += vx;
 	py += vy;
 
-	// (2) check for collision, and trigger sounds:
-	// horizontal collisions:
-	//if (px < 0){
-		//px = 0;
-		//vx *= -1;
-		//dog.play();
-	//} else if (px > ofGetWidth()){
-		//px = ofGetWidth();
-		//vx *= -1;
-		//ow.play();
-	//}
-	// vertical collisions:
-	//if (py < 0 ){
-		//py = 0;
-		//vy *= -1;
-		//rooster.play();
-	//} else 
-	//if (py > ofGetHeight()){
-		//py = ofGetHeight();
-		//vy *= -1;
-
-	//}
-	// (3) slow down velocity:
-	//vx 	*= 1f;
-	//vy 	*= 1f;
 
 	// (4) we use velocity for volume of the samples:
 	float vel = sqrt(vx*vx + vy * vy);
