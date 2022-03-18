@@ -24,8 +24,7 @@ void ofApp::setup() {
 	// load in sounds:
 	beat.load("1.wav");
 	//ow.load("sounds/ow.mp3");
-	//dog.load("sounds/dog.mp3");
-	//rooster.load("sounds/rooster.mp3");
+	
 
 	// we will bounce a circle using these variables:
 	px = 300;
@@ -68,16 +67,14 @@ void ofApp::update() {
 	py += vy;
 
 
-	// (4) we use velocity for volume of the samples:
+	
 	float vel = sqrt(vx*vx + vy * vy);
 	//ow.setVolume(MIN(vel/5.0f, 1));
 	//beat.setVolume(MIN(vel/5.0f, 1));
 	//dog.setVolume(MIN(vel/5.0f, 1));
 	//rooster.setVolume(MIN(vel/5.0f, 1));
 
-	// (5) grab the fft, and put in into a "smoothed" array,
-	//		by taking maximums, as peaks and then smoothing downward
-	//float * val = ofSoundGetSpectrum(nBandsToGet);		// request 128 values for fft
+	
 	for (int i = 0; i < nBandsToGet; i++) {
 
 		// let the smoothed calue sink to zero:
@@ -132,13 +129,7 @@ void ofApp::draw() {
 	ofDrawBitmapString("Click to change color", 50, 50);
 
 	w = 0;// 2 * PI;// / nBandsToGet;;
-//ofEnableAlphaBlending();
-	//ofSetColor(255,255,255,100);
-	//ofDrawRectangle(100,ofGetHeight()-300,5*128,200);
-//ofDisableAlphaBlending();
 
-// draw the fft resutls:
-	//ofBackground(0, 0, 0);
 
 	float width = (float)(9 * 128) / nBandsToGet;
 	for (int i = 0; i < nBandsToGet; i++) {
