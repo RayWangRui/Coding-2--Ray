@@ -38,5 +38,5 @@ Users can choose the background emotion color suitable for the song according to
 <img width="1120" alt="截屏2022-03-18 下午1 35 46" src="https://user-images.githubusercontent.com/91971211/159013242-410a7a83-229a-408a-be15-a0ec40647884.png">
 <img width="1112" alt="截屏2022-03-18 下午1 34 50" src="https://user-images.githubusercontent.com/91971211/159013266-a46e3ffc-e43f-4689-8b3d-9cba4eefb2bf.png">
 
-
+This project mainly uses C + + and opeanfreamworks. First, I chose an MP3 song I like the format file is placed in the bin folder so that it can be used in the project. The size of the window is defined in the main file, and the program runs. HPP file defines some variables that need to be used in the program and some functions in openframeworks, including drawing images, mouse clicking to change the background, and some floating-point data. Cpp file defines the background color, audio file loading, image transformation size data, etc.
 
